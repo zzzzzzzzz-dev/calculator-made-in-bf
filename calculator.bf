@@ -1,7 +1,3 @@
-[
-  Input: two ASCII digits, e.g. 77
-  Output: the decimal sum, e.g. 14
-]
 
 >++++++++[<++++++>-]
 ,>,
